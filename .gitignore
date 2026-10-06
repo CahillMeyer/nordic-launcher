@@ -1,0 +1,4 @@
+# Chrome profile data written while the apps run.
+profiles/
+# Built by install.ps1 from Launcher.cs.
+*.exe
